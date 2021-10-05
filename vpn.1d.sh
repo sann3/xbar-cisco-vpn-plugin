@@ -11,4 +11,4 @@ echo "vpn"
 echo "---"
 echo 'Connect | terminal=true shell="/Users/SYSTEM_USER_NAME/Library/Application Support/xbar/plugins/vpn/start.sh"'
 echo "---"
-echo "Disconnect | terminal=true bash=/opt/cisco/anyconnect/bin/vpn param1=disconnect"
+echo 'Disconnect | terminal=true shell="/Users/SYSTEM_USER_NAME/Library/Application Support/xbar/plugins/vpn/stop.sh"'
