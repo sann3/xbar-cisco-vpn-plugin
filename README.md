@@ -34,6 +34,7 @@ the password is supplied from Mac keychain automatically.
 6. Copy the files to ~/Library/Application Support/xbar/plugins/ directory
    1. plugins/vpn.1d.sh
    2. plugins/vpn/start.sh
+   3. plugins/vpn/stop.sh
 
 7. Restart/refresh the xbar
 
