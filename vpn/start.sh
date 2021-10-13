@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+osascript -e 'quit app "Cisco AnyConnect Secure Mobility Client"'
+
 /opt/cisco/anyconnect/bin/vpn connect VPN_URL -s << EOM
 0
 VPN_USERNAME
